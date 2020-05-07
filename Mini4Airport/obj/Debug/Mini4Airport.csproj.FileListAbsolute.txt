@@ -1,0 +1,5 @@
+C:\Users\snake\Software Dev\Algo\Mini4Airport\Mini4Airport\bin\Debug\Mini4Airport.exe
+C:\Users\snake\Software Dev\Algo\Mini4Airport\Mini4Airport\bin\Debug\Mini4Airport.pdb
+C:\Users\snake\Software Dev\Algo\Mini4Airport\Mini4Airport\obj\Debug\Mini4Airport.csprojAssemblyReference.cache
+C:\Users\snake\Software Dev\Algo\Mini4Airport\Mini4Airport\obj\Debug\Mini4Airport.exe
+C:\Users\snake\Software Dev\Algo\Mini4Airport\Mini4Airport\obj\Debug\Mini4Airport.pdb

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\snake\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\snake\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Mini4Airport.-691842920.00" t="ExcludeRecursive" />
+    <e p="C:\Users\snake\Software Dev\Algo\Mini4Airport" t="IncludeFlat">
+      <e p="Mini4Airport" t="IncludeRecursive">
+        <e p="Airline.cs" t="Include" />
+        <e p="Airport.cs" t="Include" />
+        <e p="Algo.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Dijkstra.cs" t="Include" />
+        <e p="DirectedGraph.cs" t="Include" />
+        <e p="Mini4Airport.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="PrioQueue.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Route.cs" t="Include" />
+      </e>
+      <e p="Mini4Airport.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
